@@ -1,0 +1,32 @@
+Roles :
+	- Visiteur
+	- Investisseur
+	- Administrateur
+
+Page Web proposées Visiteur : 
+	- Page accueil (présentation service & équipe)
+	- FAQ
+	- Contact
+	- Connexion
+
+Page Web proposées Investisseur :	
+	- Dashboard
+	- Mes cartes
+	- Revenues
+	- Nouvel Achat
+	- FAQ
+	- 
+	- Notifications
+	- Chat
+	- Settings (changer couleurs, ...)
+	- Compte (email, ...)
+
+Page Web proposées Administrateur :
+	- Ajout de nouvelles cartes dispo
+	- Dashboard (argent généré + combien à payer)
+	- Clients
+	- Cartes en attentes
+	- Notifications
+	- Chat
+	- Settings (changer couleurs, ...)
+	- Compte (email, ...)
